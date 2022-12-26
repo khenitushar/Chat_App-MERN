@@ -1,4 +1,4 @@
-# Steps to Start the App
+# Steps to Compile the App
 
 ## Install the Public Dependencies
 ## Install the Server Dependencies
